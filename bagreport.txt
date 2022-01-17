@@ -1,0 +1,11 @@
+1) ID
+2) Author
+3) Symmary
+4) Pre-condition
+5) Steps
+6) Actual_result
+7) Expected_result
+8) Severity
+9) Priority
+10) Attachment
+
